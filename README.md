@@ -1,1 +1,1 @@
-# An simple demostration of django as an backed and react as an frontend guide. with react router.
+### An simple demostration of django as an backed and react as an frontend example. with react router.
